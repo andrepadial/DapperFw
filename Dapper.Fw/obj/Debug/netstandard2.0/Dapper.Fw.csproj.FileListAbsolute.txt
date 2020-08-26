@@ -1,0 +1,6 @@
+C:\Users\pa0044\source\repos\Dapper.Fw\Dapper.Fw\bin\Debug\netstandard2.0\Dapper.Fw.deps.json
+C:\Users\pa0044\source\repos\Dapper.Fw\Dapper.Fw\bin\Debug\netstandard2.0\Dapper.Fw.dll
+C:\Users\pa0044\source\repos\Dapper.Fw\Dapper.Fw\obj\Debug\netstandard2.0\Dapper.Fw.csprojAssemblyReference.cache
+C:\Users\pa0044\source\repos\Dapper.Fw\Dapper.Fw\obj\Debug\netstandard2.0\Dapper.Fw.AssemblyInfoInputs.cache
+C:\Users\pa0044\source\repos\Dapper.Fw\Dapper.Fw\obj\Debug\netstandard2.0\Dapper.Fw.AssemblyInfo.cs
+C:\Users\pa0044\source\repos\Dapper.Fw\Dapper.Fw\bin\Debug\netstandard2.0\Dapper.Fw.dll.config
